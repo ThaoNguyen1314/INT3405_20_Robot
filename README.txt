@@ -1,6 +1,6 @@
 1. Models đã train ở link (5 model tương ứng 5 fold)
-	https://drive.google.com/drive/folders/15wVBcUameA-n8Pj9iNJePQppdCVubsdh?fbclid=IwAR1xAPFFp5yOXqbROQd6sLaGmAXoS7XHO1IYUBqoRzBoFs7UKI_NCZOHlQw
-2. Clone git, cd đến folder vừa clone
+	https://drive.google.com/drive/folders/1VMD0-kP3TUad1_VYO65jTnYHHCf_6z4P
+2. Chạy trên colab: Clone git, cd đến folder vừa clone
 3. Run requirements.txt
 4. Run: 
 
@@ -59,3 +59,5 @@
   + Sửa path_nag, path_pos (dòng 118, 119)
   
  8. Giải nén file data.rar, tập data 59000 dữ liệu ở file data.csv
+ 
+ 9. Link LSTM: https://www.kaggle.com/code/anh147/sentiment-rb
