@@ -57,3 +57,5 @@
 7. Nếu muốn chạy code clean data: 
   + Xoá # ở file infer.py (dòng 74) và file train.py (dòng 76, 77)
   + Sửa path_nag, path_pos (dòng 118, 119)
+  
+ 8. Giải nén file data.rar, tập data 59000 dữ liệu ở file data.csv
