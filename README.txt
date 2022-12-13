@@ -1,5 +1,6 @@
-1. 
-2. cd đến folder vừa git clone
+1. Models đã train ở link (5 model tương ứng 5 fold)
+	https://drive.google.com/drive/folders/15wVBcUameA-n8Pj9iNJePQppdCVubsdh?fbclid=IwAR1xAPFFp5yOXqbROQd6sLaGmAXoS7XHO1IYUBqoRzBoFs7UKI_NCZOHlQw
+2. Clone git, cd đến folder vừa clone
 3. Run requirements.txt
 4. Run: 
 
@@ -51,7 +52,7 @@
 	Predicting for fold 4
      thì stop run và download file submission.csv
 
-**** Nếu muốn dùng model train sẵn, sửa './models' thành './models_trained'
+**** Nếu muốn dùng model train sẵn, tạo folder Models, tải và paste Model ở bước 1 vào folder Models.
 
 7. Nếu muốn chạy code clean data: 
   + Xoá # ở file infer.py (dòng 74) và file train.py (dòng 76, 77)
