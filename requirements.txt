@@ -1,0 +1,4 @@
+vncorenlp
+transformers
+fastBPE
+fairseq
