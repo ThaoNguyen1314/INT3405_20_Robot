@@ -1,3 +1,9 @@
+----------------------------------------------------------
+Classify Food Reviews using Sentiment Analysis techniques
+Organzied by "INT3405-Sentiment Analysis Problem" - UET 
+----------------------------------------------------------
+Quy trình chạy mô hình:
+
 1. Models đã train ở link (5 model tương ứng 5 fold)
 	https://drive.google.com/drive/folders/1VMD0-kP3TUad1_VYO65jTnYHHCf_6z4P
 2. Chạy trên colab: Clone git, cd đến folder vừa clone
